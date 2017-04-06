@@ -12,6 +12,6 @@ This is a web-based project, so no installation is necessary. But to experiment 
 
 If you want to try out my finished project online, it is hosted [here](https://adc17.github.io/sketch-pad/) on github.io.
 
-## My Approach
+## Further Information
 
-This was my first real Javascript project, so I doubt I've used good practice! I wrote it while following [the Odin Project](http://www.theodinproject.com), a free online web development curriculum.
+This was my first real Javascript project, and though I tried my best, I doubt I've used good practice! I wrote it while following [the Odin Project](http://www.theodinproject.com), a free online web development curriculum.
