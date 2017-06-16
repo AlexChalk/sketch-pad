@@ -6,7 +6,7 @@ This is a simple sketch pad built using Javascript and the jQuery library. You c
 
 This is a web-based project, so no installation is necessary. But to experiment with your own copy of the code, you can use the following:
 
-`git clone path-to-your-repo`
+`git clone git@github.com:adc17/sketch-pad.git`
 
 ## Usage
 
